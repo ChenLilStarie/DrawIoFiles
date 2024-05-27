@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T15:11:01.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="NR7JNeEfRIQpPyjof-e1" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T15:30:36.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="10Oh-Bf3vPy_fAd2aI7M" version="24.4.4" type="github">
   <diagram name="第 1 页" id="znvnqTsf_Wlyi8yJBuE7">
-    <mxGraphModel dx="1173" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,11 +13,23 @@
         <mxCell id="uVemcGU68h8CTtdwyouk-1" value="S" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uVemcGU68h8CTtdwyouk-2" value="V_like" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="uVemcGU68h8CTtdwyouk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uVemcGU68h8CTtdwyouk-2" target="uVemcGU68h8CTtdwyouk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uVemcGU68h8CTtdwyouk-2" value="${V}$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uVemcGU68h8CTtdwyouk-3" value="V_unlike" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="uVemcGU68h8CTtdwyouk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uVemcGU68h8CTtdwyouk-3" target="uVemcGU68h8CTtdwyouk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uVemcGU68h8CTtdwyouk-3" value="${V&#39;}$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uVemcGU68h8CTtdwyouk-6" value="Y_like" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uVemcGU68h8CTtdwyouk-7" value="Y_unlike" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
