@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T02:49:39.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="lcssEPXAY5ybTqmsSwWK" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T02:52:22.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="lxAGWr6K7Kw5FGiCLBgh" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Skv8fpGebTwqSzIPjtRS">
     <mxGraphModel dx="1044" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -673,10 +673,10 @@
         <mxCell id="wrFZd82m7ZlRx0uGTqlU-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wrFZd82m7ZlRx0uGTqlU-158" target="wrFZd82m7ZlRx0uGTqlU-242" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wrFZd82m7ZlRx0uGTqlU-267" value="behavioral cascading graph convolution task" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="wrFZd82m7ZlRx0uGTqlU-267" value="Behavioral cascading graph convolution task" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="409" y="60" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wrFZd82m7ZlRx0uGTqlU-269" value="noise-sharpening contrastive learning task" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="wrFZd82m7ZlRx0uGTqlU-269" value="Noise-sharpening contrastive learning task" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="401.5" y="469" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wrFZd82m7ZlRx0uGTqlU-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wrFZd82m7ZlRx0uGTqlU-18" edge="1">
