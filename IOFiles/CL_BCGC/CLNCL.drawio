@@ -90,10 +90,10 @@
         <mxCell id="C153-lScjyPloALbCFHb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C153-lScjyPloALbCFHb-26" target="C153-lScjyPloALbCFHb-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C153-lScjyPloALbCFHb-51" value="$$ {\mathrm{E}_{u}^{t}}^{(2)&#39;}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="C153-lScjyPloALbCFHb-51" value="$$ {\mathrm{E}_{u}^{t}}^{(3)&#39;}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C153-lScjyPloALbCFHb-52" value="$$ {\mathrm{E}_{i}^{t}}^{(2)&#39;}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="C153-lScjyPloALbCFHb-52" value="$$ {\mathrm{E}_{i}^{t}}^{(3)&#39;}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C153-lScjyPloALbCFHb-53" value="" style="group" vertex="1" connectable="0" parent="1">
