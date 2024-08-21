@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="on7W_02Eu3kguIsyM6I1-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="30" width="930" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="on7W_02Eu3kguIsyM6I1-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="760" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="on7W_02Eu3kguIsyM6I1-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="760" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="on7W_02Eu3kguIsyM6I1-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="840" width="920" height="590" as="geometry" />
         </mxCell>
