@@ -841,7 +841,7 @@
         <mxCell id="on7W_02Eu3kguIsyM6I1-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;rotation=0;" vertex="1" parent="on7W_02Eu3kguIsyM6I1-53">
           <mxGeometry x="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="on7W_02Eu3kguIsyM6I1-58" value="\(\Delta_u\) is user noise vectors" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="on7W_02Eu3kguIsyM6I1-63">
+        <mxCell id="on7W_02Eu3kguIsyM6I1-58" value="\(\Delta_u\) is user noise vector" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="on7W_02Eu3kguIsyM6I1-63">
           <mxGeometry x="100" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="on7W_02Eu3kguIsyM6I1-64" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -859,10 +859,10 @@
         <mxCell id="on7W_02Eu3kguIsyM6I1-51" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;rotation=0;" vertex="1" parent="on7W_02Eu3kguIsyM6I1-48">
           <mxGeometry x="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="on7W_02Eu3kguIsyM6I1-62" value="\(\Delta_i\) is item noise vectors" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="on7W_02Eu3kguIsyM6I1-64">
+        <mxCell id="on7W_02Eu3kguIsyM6I1-62" value="\(\Delta_i\) is item noise vector" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="on7W_02Eu3kguIsyM6I1-64">
           <mxGeometry x="95" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="on7W_02Eu3kguIsyM6I1-65" value="The added noise vectors \(\Delta_u\) and \(\Delta_i\) have three constraints: \(\left \| \Delta  \right \|_{2} = \varepsilon , \Delta=\bar{\Delta} \odot sign(E_{i}^{t}) , \bar{\Delta}\in R^{d}\sim U(0, 1)\)." style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="on7W_02Eu3kguIsyM6I1-65" value="The noise vector \(\Delta_u\) and \(\Delta_i\) have three constraints: \(\left \| \Delta  \right \|_{2} = \varepsilon , \Delta=\bar{\Delta} \odot sign(E_{i}^{t}) , \bar{\Delta}\in R^{d}\sim U(0, 1)\)." style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="825" height="40" as="geometry" />
         </mxCell>
       </root>
