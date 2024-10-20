@@ -28,7 +28,7 @@
         <mxCell id="acMKYbe6vQJ9O9eNH2sJ-35" value="用户-项目匹配。K：匹配因素。Y: 排名分（交互概率）" style="text;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="990" y="310" width="480" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="acMKYbe6vQJ9O9eNH2sJ-43" value="结合项目流行度和用户一致性" style="text;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="acMKYbe6vQJ9O9eNH2sJ-43" value="结合项目流行度" style="text;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="980" y="640" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acMKYbe6vQJ9O9eNH2sJ-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.951;exitY=0.724;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="acMKYbe6vQJ9O9eNH2sJ-47" target="acMKYbe6vQJ9O9eNH2sJ-51" edge="1">
@@ -41,9 +41,6 @@
           <mxGeometry x="880" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="acMKYbe6vQJ9O9eNH2sJ-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="acMKYbe6vQJ9O9eNH2sJ-49" target="acMKYbe6vQJ9O9eNH2sJ-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="acMKYbe6vQJ9O9eNH2sJ-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="acMKYbe6vQJ9O9eNH2sJ-49" target="acMKYbe6vQJ9O9eNH2sJ-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="acMKYbe6vQJ9O9eNH2sJ-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;$$U$$&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
