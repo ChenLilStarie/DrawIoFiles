@@ -86,7 +86,7 @@
           <mxGeometry x="880" y="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Mdq6Gw4Iz_iuoYK7gJNK-2" value="\(I^*\): 模拟长尾结点" style="text;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1070" width="170" height="40" as="geometry" />
+          <mxGeometry x="990" y="1060" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
