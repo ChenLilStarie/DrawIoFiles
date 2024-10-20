@@ -29,7 +29,7 @@
           <mxGeometry x="990" y="310" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acMKYbe6vQJ9O9eNH2sJ-43" value="结合项目流行度" style="text;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="980" y="640" width="240" height="40" as="geometry" />
+          <mxGeometry x="980" y="640" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="acMKYbe6vQJ9O9eNH2sJ-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.951;exitY=0.724;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="acMKYbe6vQJ9O9eNH2sJ-47" target="acMKYbe6vQJ9O9eNH2sJ-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="acMKYbe6vQJ9O9eNH2sJ-78" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$I^*$$&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="880" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mdq6Gw4Iz_iuoYK7gJNK-2" value="\(I^*\): 模拟长尾结点" style="text;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1070" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
