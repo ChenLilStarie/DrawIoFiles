@@ -305,7 +305,7 @@
         <mxCell id="UNB1PaPICEHbXDPDgCwH-39" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="575" y="1375" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UNB1PaPICEHbXDPDgCwH-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="UNB1PaPICEHbXDPDgCwH-39">
+        <mxCell id="UNB1PaPICEHbXDPDgCwH-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="UNB1PaPICEHbXDPDgCwH-39">
           <mxGeometry width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UNB1PaPICEHbXDPDgCwH-13" value="buy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="UNB1PaPICEHbXDPDgCwH-39">
@@ -314,7 +314,7 @@
         <mxCell id="UNB1PaPICEHbXDPDgCwH-41" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="255" y="1375" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UNB1PaPICEHbXDPDgCwH-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="UNB1PaPICEHbXDPDgCwH-41">
+        <mxCell id="UNB1PaPICEHbXDPDgCwH-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UNB1PaPICEHbXDPDgCwH-41">
           <mxGeometry width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UNB1PaPICEHbXDPDgCwH-4" value="view" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="UNB1PaPICEHbXDPDgCwH-41">
@@ -323,7 +323,7 @@
         <mxCell id="UNB1PaPICEHbXDPDgCwH-42" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="445" y="1375" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UNB1PaPICEHbXDPDgCwH-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="UNB1PaPICEHbXDPDgCwH-42">
+        <mxCell id="UNB1PaPICEHbXDPDgCwH-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="UNB1PaPICEHbXDPDgCwH-42">
           <mxGeometry width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UNB1PaPICEHbXDPDgCwH-9" value="cart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="UNB1PaPICEHbXDPDgCwH-42">
