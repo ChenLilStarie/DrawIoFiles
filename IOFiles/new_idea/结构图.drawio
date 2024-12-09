@@ -1175,16 +1175,16 @@
         <mxCell id="-ggWLTc_SMhFRKVbQvi--361" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="-ggWLTc_SMhFRKVbQvi--358">
           <mxGeometry x="40" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-ggWLTc_SMhFRKVbQvi--362" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+        <mxCell id="-ggWLTc_SMhFRKVbQvi--362" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1385" y="215" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-ggWLTc_SMhFRKVbQvi--363" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-ggWLTc_SMhFRKVbQvi--362">
+        <mxCell id="-ggWLTc_SMhFRKVbQvi--363" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="-ggWLTc_SMhFRKVbQvi--362">
           <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-ggWLTc_SMhFRKVbQvi--364" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-ggWLTc_SMhFRKVbQvi--362">
+        <mxCell id="-ggWLTc_SMhFRKVbQvi--364" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="-ggWLTc_SMhFRKVbQvi--362">
           <mxGeometry x="20" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-ggWLTc_SMhFRKVbQvi--365" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="-ggWLTc_SMhFRKVbQvi--362">
+        <mxCell id="-ggWLTc_SMhFRKVbQvi--365" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="-ggWLTc_SMhFRKVbQvi--362">
           <mxGeometry x="40" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ggWLTc_SMhFRKVbQvi--366" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;user embedding&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
