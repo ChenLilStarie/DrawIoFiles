@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="第 1 页" id="SOrNbni6haaX7lcLXhrE">
-    <mxGraphModel dx="1386" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1216" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -986,7 +986,7 @@
         <mxCell id="-ggWLTc_SMhFRKVbQvi--301" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="-ggWLTc_SMhFRKVbQvi--298">
           <mxGeometry x="40" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-ggWLTc_SMhFRKVbQvi--302" value="\(\Delta\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-ggWLTc_SMhFRKVbQvi--302" value="\(\Delta_i\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1315" y="50" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ggWLTc_SMhFRKVbQvi--311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ggWLTc_SMhFRKVbQvi--303" target="-ggWLTc_SMhFRKVbQvi--307">
@@ -1010,7 +1010,7 @@
         <mxCell id="-ggWLTc_SMhFRKVbQvi--309" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=#FFFFFF;" vertex="1" parent="-ggWLTc_SMhFRKVbQvi--306">
           <mxGeometry x="40" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-ggWLTc_SMhFRKVbQvi--310" value="\(\Delta^{\prime}\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-ggWLTc_SMhFRKVbQvi--310" value="\(\Delta^{\prime}_i\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1400" y="90" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ggWLTc_SMhFRKVbQvi--312" value="" style="group" vertex="1" connectable="0" parent="1">
