@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;学习流行物品的表示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="390" width="100" height="40" as="geometry" />
+          <mxGeometry x="110" y="378" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-5" target="-Q4dJPU8IPbL6j8d0112-7">
           <mxGeometry relative="1" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;学习长尾物品的表示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="390" width="100" height="40" as="geometry" />
+          <mxGeometry x="230" y="378" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-7" target="-Q4dJPU8IPbL6j8d0112-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;利用数据增强技术，生成模拟长尾物品的表示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="390" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="378" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-8" target="-Q4dJPU8IPbL6j8d0112-5">
           <mxGeometry relative="1" as="geometry" />
@@ -53,25 +53,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;利用项目的交互数量，区分流行项目和长尾项目&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="322" width="140" height="40" as="geometry" />
+          <mxGeometry x="210" y="310" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-16" target="-Q4dJPU8IPbL6j8d0112-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;利用注意力机制整合三种项目表示，生成最终保持用户偏好并去除流行度偏差的无偏项目表示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="215" y="460" width="130" height="70" as="geometry" />
+          <mxGeometry x="215" y="448" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-29" target="-Q4dJPU8IPbL6j8d0112-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;生成流行度干预权重矩阵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="385" y="322" width="90" height="40" as="geometry" />
+          <mxGeometry x="385" y="310" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;利用无偏项目表示计算用户的最终交互概率，生成最终推荐结果&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="560" width="150" height="40" as="geometry" />
+          <mxGeometry x="205" y="548" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-34" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="620" width="60" height="36" as="geometry" />
+          <mxGeometry x="250" y="608" width="60" height="36" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-32" target="-Q4dJPU8IPbL6j8d0112-34">
           <mxGeometry relative="1" as="geometry" />
