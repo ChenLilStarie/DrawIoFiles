@@ -14,19 +14,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;利用级联方法，将用户多种行为进行顺序建模，构建基模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="180" width="160" height="40" as="geometry" />
+          <mxGeometry x="210" y="180" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-3" target="-Q4dJPU8IPbL6j8d0112-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;对各变量间的因果关系进行分析，构建因果图&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="215" y="246" width="130" height="50" as="geometry" />
+          <mxGeometry x="210" y="246" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-4" target="-Q4dJPU8IPbL6j8d0112-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;学习流行物品的表示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="403" width="90" height="40" as="geometry" />
+          <mxGeometry x="110" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-5" target="-Q4dJPU8IPbL6j8d0112-7">
           <mxGeometry relative="1" as="geometry" />
@@ -35,13 +35,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;学习长尾物品的表示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="403" width="90" height="40" as="geometry" />
+          <mxGeometry x="230" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-7" target="-Q4dJPU8IPbL6j8d0112-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;利用数据增强技术，生成模拟长尾物品的表示&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="398" width="120" height="50" as="geometry" />
+          <mxGeometry x="370" y="390" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-8" target="-Q4dJPU8IPbL6j8d0112-5">
           <mxGeometry relative="1" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;利用项目的交互数量，区分流行项目和长尾项目&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="215" y="322" width="130" height="50" as="geometry" />
+          <mxGeometry x="210" y="322" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-Q4dJPU8IPbL6j8d0112-16" target="-Q4dJPU8IPbL6j8d0112-32">
           <mxGeometry relative="1" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;生成流行度干预权重矩阵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="395" y="322" width="90" height="50" as="geometry" />
+          <mxGeometry x="385" y="322" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Q4dJPU8IPbL6j8d0112-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;利用无偏项目表示计算用户的最终交互概率，生成最终推荐结果&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="560" width="120" height="50" as="geometry" />
