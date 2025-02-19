@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.11">
   <diagram name="第 1 页" id="SOrNbni6haaX7lcLXhrE">
-    <mxGraphModel dx="691" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1209" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2361,6 +2361,21 @@
             <mxPoint x="4060" y="400.16" as="sourcePoint" />
             <mxPoint x="4100" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ui3XD-KBIEMe5zQACI0g-39" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4110" y="389.71" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ui3XD-KBIEMe5zQACI0g-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ui3XD-KBIEMe5zQACI0g-39">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ui3XD-KBIEMe5zQACI0g-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ui3XD-KBIEMe5zQACI0g-39">
+          <mxGeometry x="20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ui3XD-KBIEMe5zQACI0g-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ui3XD-KBIEMe5zQACI0g-39">
+          <mxGeometry x="40" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ui3XD-KBIEMe5zQACI0g-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$e_{i\_real}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4190" y="384.2900000000001" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
