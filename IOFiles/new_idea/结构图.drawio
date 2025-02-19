@@ -2575,16 +2575,14 @@
         <mxCell id="ui3XD-KBIEMe5zQACI0g-172" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ui3XD-KBIEMe5zQACI0g-169">
           <mxGeometry x="40" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ui3XD-KBIEMe5zQACI0g-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ui3XD-KBIEMe5zQACI0g-178" target="ui3XD-KBIEMe5zQACI0g-180">
+        <mxCell id="ui3XD-KBIEMe5zQACI0g-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ui3XD-KBIEMe5zQACI0g-238" target="ui3XD-KBIEMe5zQACI0g-180">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4336.8099999999995" y="570" />
-              <mxPoint x="4336.8099999999995" y="430" />
+              <mxPoint x="4337" y="595" />
+              <mxPoint x="4337" y="430" />
             </Array>
+            <mxPoint x="4322" y="570" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ui3XD-KBIEMe5zQACI0g-178" value="GCN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4287" y="545" width="35" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ui3XD-KBIEMe5zQACI0g-179" value="" style="group;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="4365.8099999999995" y="420" width="60" height="20" as="geometry" />
@@ -2601,10 +2599,8 @@
         <mxCell id="ui3XD-KBIEMe5zQACI0g-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ui3XD-KBIEMe5zQACI0g-235" target="ui3XD-KBIEMe5zQACI0g-186">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4280" y="430" />
-              <mxPoint x="4280" y="450" />
-              <mxPoint x="4347" y="450" />
-              <mxPoint x="4347" y="595" />
+              <mxPoint x="4320" y="430" />
+              <mxPoint x="4320" y="595" />
             </Array>
             <mxPoint x="4260" y="435.0000000000001" as="sourcePoint" />
           </mxGeometry>
