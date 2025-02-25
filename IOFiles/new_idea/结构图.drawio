@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.15">
   <diagram name="第 1 页" id="SOrNbni6haaX7lcLXhrE">
-    <mxGraphModel dx="1151" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1343" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3364,7 +3364,7 @@
         <mxCell id="tm0lplVdlrq2mfWV7anz-109" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$e_{i\_real}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3817.27" y="1804.4699999999998" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tm0lplVdlrq2mfWV7anz-111" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Popularity-aware Noise&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB570;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="tm0lplVdlrq2mfWV7anz-111" value="&lt;font style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Popularity-aware Noise&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="3910.700000000001" y="1407.7999999999997" width="210.62" height="45" as="geometry" />
         </mxCell>
         <mxCell id="tm0lplVdlrq2mfWV7anz-112" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
@@ -3388,7 +3388,7 @@
         <mxCell id="tm0lplVdlrq2mfWV7anz-117" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$e_{i\_sim}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3809.77" y="1856.62" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tm0lplVdlrq2mfWV7anz-118" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Preliminaries&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB570;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="tm0lplVdlrq2mfWV7anz-118" value="&lt;font style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Preliminaries&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="3571.33" y="1410.62" width="187.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tm0lplVdlrq2mfWV7anz-119" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;" edge="1" parent="1">
@@ -3889,8 +3889,8 @@
             <mxPoint x="4548.01" y="1722.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tm0lplVdlrq2mfWV7anz-371" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Long-tail Items Argumentation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB570;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="3745.09" y="1726.62" width="187.5" height="40" as="geometry" />
+        <mxCell id="tm0lplVdlrq2mfWV7anz-371" value="&lt;font style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Long-tail Items Argumentation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="3720.1800000000003" y="1726.62" width="264.91" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tm0lplVdlrq2mfWV7anz-249" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;rotation=90;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="4571.33" y="1707.6200000000001" width="60" height="20" as="geometry" />
@@ -3922,7 +3922,7 @@
         <mxCell id="tm0lplVdlrq2mfWV7anz-261" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$e_i^{[1:L]^\prime}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="4551.33" y="1750.6200000000001" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tm0lplVdlrq2mfWV7anz-377" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;&quot;&gt;Noise Augmentation Contrastive Learning&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB570;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="tm0lplVdlrq2mfWV7anz-377" value="&lt;font style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;Noise Augmentation Contrastive Learning&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="4258.670000000003" y="1441.27" width="210.62" height="45" as="geometry" />
         </mxCell>
         <mxCell id="tm0lplVdlrq2mfWV7anz-393" value="" style="group" vertex="1" connectable="0" parent="1">
