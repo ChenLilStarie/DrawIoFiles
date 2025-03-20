@@ -4325,16 +4325,16 @@
             <mxPoint x="5490" y="129.32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qnMG-GyQNyw-3vfvPu90-12" value="" style="group;fillColor=#ffe6cc;strokeColor=#B3B3B3;gradientDirection=north;fillStyle=hatch;" vertex="1" connectable="0" parent="1">
+        <mxCell id="qnMG-GyQNyw-3vfvPu90-12" value="" style="group;fillColor=#ffe6cc;strokeColor=#CCCCCC;gradientDirection=north;fillStyle=hatch;glass=0;shadow=0;rounded=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="5470" y="80" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qnMG-GyQNyw-3vfvPu90-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#B3B3B3;gradientDirection=north;fillStyle=hatch;" vertex="1" parent="qnMG-GyQNyw-3vfvPu90-12">
+        <mxCell id="qnMG-GyQNyw-3vfvPu90-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#CCCCCC;gradientDirection=north;fillStyle=hatch;glass=0;shadow=0;" vertex="1" parent="qnMG-GyQNyw-3vfvPu90-12">
           <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qnMG-GyQNyw-3vfvPu90-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#B3B3B3;gradientDirection=north;fillStyle=hatch;" vertex="1" parent="qnMG-GyQNyw-3vfvPu90-12">
+        <mxCell id="qnMG-GyQNyw-3vfvPu90-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#CCCCCC;gradientDirection=north;fillStyle=hatch;glass=0;shadow=0;" vertex="1" parent="qnMG-GyQNyw-3vfvPu90-12">
           <mxGeometry x="20" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qnMG-GyQNyw-3vfvPu90-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#B3B3B3;gradientDirection=north;fillStyle=hatch;" vertex="1" parent="qnMG-GyQNyw-3vfvPu90-12">
+        <mxCell id="qnMG-GyQNyw-3vfvPu90-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#CCCCCC;gradientDirection=north;fillStyle=hatch;glass=0;shadow=0;" vertex="1" parent="qnMG-GyQNyw-3vfvPu90-12">
           <mxGeometry x="40" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qnMG-GyQNyw-3vfvPu90-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qnMG-GyQNyw-3vfvPu90-14" target="qnMG-GyQNyw-3vfvPu90-10">
@@ -4342,6 +4342,24 @@
         </mxCell>
         <mxCell id="qnMG-GyQNyw-3vfvPu90-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Initial noise \(\Delta_i\)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5462.5" y="54.32" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qnMG-GyQNyw-3vfvPu90-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5510" y="129.32" as="sourcePoint" />
+            <mxPoint x="5530" y="129.32" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qnMG-GyQNyw-3vfvPu90-19" value="" style="group;fillColor=#ffe6cc;strokeColor=#CCCCCC;gradientDirection=north;fillStyle=hatch;glass=0;shadow=0;rounded=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="5530" y="120" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qnMG-GyQNyw-3vfvPu90-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#CCCCCC;gradientDirection=north;fillStyle=hatch;glass=0;shadow=0;" vertex="1" parent="qnMG-GyQNyw-3vfvPu90-19">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qnMG-GyQNyw-3vfvPu90-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#CCCCCC;gradientDirection=north;fillStyle=hatch;glass=0;shadow=0;" vertex="1" parent="qnMG-GyQNyw-3vfvPu90-19">
+          <mxGeometry x="20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qnMG-GyQNyw-3vfvPu90-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#CCCCCC;gradientDirection=north;fillStyle=hatch;glass=0;shadow=0;" vertex="1" parent="qnMG-GyQNyw-3vfvPu90-19">
+          <mxGeometry x="40" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
