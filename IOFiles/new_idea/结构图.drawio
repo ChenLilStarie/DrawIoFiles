@@ -6414,13 +6414,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JZZ0j7VesSlo8w9-NB2F-187" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;浏览&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=3;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="6804.61" y="243.82000000000008" width="65.39" height="30" as="geometry" />
+          <mxGeometry x="6794.61" y="240.89000000000007" width="65.39" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JZZ0j7VesSlo8w9-NB2F-188" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;加购物车&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=3;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="6841.57" y="196.56" width="128.43" height="30" as="geometry" />
+          <mxGeometry x="6830" y="196.56" width="128.43" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JZZ0j7VesSlo8w9-NB2F-189" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;购买&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=3;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="6883.19" y="156.5600000000001" width="66.81" height="30" as="geometry" />
+          <mxGeometry x="6875.23" y="158.1200000000001" width="66.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JZZ0j7VesSlo8w9-NB2F-190" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="6800" y="823.82" width="1260" height="102.74" as="geometry" />
