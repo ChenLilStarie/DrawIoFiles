@@ -310,13 +310,13 @@
         <mxCell id="soInT_jy2BydCNeBa6Lg-113" value="&lt;font&gt;$$I_{t_3}$$&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="2540" y="800" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="soInT_jy2BydCNeBa6Lg-114" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="soInT_jy2BydCNeBa6Lg-117" target="soInT_jy2BydCNeBa6Lg-105" edge="1">
+        <mxCell id="aEq2LiMwJPQ9Wbp7pFRd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="soInT_jy2BydCNeBa6Lg-117" target="soInT_jy2BydCNeBa6Lg-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="soInT_jy2BydCNeBa6Lg-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="soInT_jy2BydCNeBa6Lg-117" target="soInT_jy2BydCNeBa6Lg-107" edge="1">
+        <mxCell id="aEq2LiMwJPQ9Wbp7pFRd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="soInT_jy2BydCNeBa6Lg-117" target="soInT_jy2BydCNeBa6Lg-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="soInT_jy2BydCNeBa6Lg-116" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="soInT_jy2BydCNeBa6Lg-117" target="soInT_jy2BydCNeBa6Lg-109" edge="1">
+        <mxCell id="aEq2LiMwJPQ9Wbp7pFRd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="soInT_jy2BydCNeBa6Lg-117" target="soInT_jy2BydCNeBa6Lg-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="soInT_jy2BydCNeBa6Lg-117" value="&lt;span&gt;$$U$$&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=25;" parent="1" vertex="1">
