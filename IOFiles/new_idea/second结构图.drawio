@@ -2107,13 +2107,13 @@
           <mxGeometry height="28.75" width="180" x="2820" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Vv9GOIiPEaxn9ZqRMfdK-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;glass=1;strokeColor=none;shadow=0;fillColor=#fff2cc;" value="" vertex="1">
-          <mxGeometry height="290" width="150" x="3075" y="200" as="geometry" />
+          <mxGeometry height="300" width="150" x="3075" y="190" as="geometry" />
         </mxCell>
         <mxCell id="Vv9GOIiPEaxn9ZqRMfdK-158" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="LightGCN" vertex="1">
           <mxGeometry height="18.25" width="60" x="3120" y="280.1099999999999" as="geometry" />
         </mxCell>
         <mxCell id="Vv9GOIiPEaxn9ZqRMfdK-176" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Stage1:&amp;nbsp;Initialize embedding" vertex="1">
-          <mxGeometry height="28.75" width="150" x="3075" y="202.05" as="geometry" />
+          <mxGeometry height="28.75" width="150" x="3072.5" y="191.25" as="geometry" />
         </mxCell>
         <mxCell id="Vv9GOIiPEaxn9ZqRMfdK-177" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="125" width="145" x="3077.5" y="360" as="geometry" />
