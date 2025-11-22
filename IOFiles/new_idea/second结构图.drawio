@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="第 1 页" id="a7vEhYP6rL8GsZ4J2X63">
-    <mxGraphModel dx="815" dy="425" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
+    <mxGraphModel dx="475" dy="248" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2319,7 +2319,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vv9GOIiPEaxn9ZqRMfdK-163" value="$$\mathtt{E}_{i}^{buy}$$" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="3240" y="259.75" width="40" height="20" as="geometry" />
+          <mxGeometry x="3240" y="258.2" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xtx1KSvkk0eeA1uyG5kH-41" value="" style="group" parent="1" connectable="0" vertex="1">
           <mxGeometry x="3230" y="279.75" width="60" height="20" as="geometry" />
