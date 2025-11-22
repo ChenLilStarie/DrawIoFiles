@@ -2116,7 +2116,7 @@
           <mxGeometry x="3075" y="190" width="150" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Vv9GOIiPEaxn9ZqRMfdK-158" value="LightGCN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3120" y="261.4999999999999" width="60" height="18.25" as="geometry" />
+          <mxGeometry x="3120" y="258.1999999999999" width="60" height="18.25" as="geometry" />
         </mxCell>
         <mxCell id="Vv9GOIiPEaxn9ZqRMfdK-176" value="Stage 1:&amp;nbsp;Initialize Embeddings" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="3072.5" y="191.25" width="150" height="28.75" as="geometry" />
