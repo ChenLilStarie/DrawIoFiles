@@ -3033,6 +3033,9 @@
         <mxCell id="lxX5Why3Xq6m008ydt79-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\psi$$" vertex="1">
           <mxGeometry height="16" width="25" x="3238" y="309.98" as="geometry" />
         </mxCell>
+        <mxCell id="n5DYP0KcQ7Jb-HXaGG2_-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1、交互图分为三个子图；2、分开流行和非流行的不对；3、对抗的过程要表达出来；4、buy行为的增强要有" vertex="1">
+          <mxGeometry height="30" width="317" x="3238" y="556" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
