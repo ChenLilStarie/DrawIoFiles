@@ -4164,9 +4164,6 @@
         <mxCell id="n5DYP0KcQ7Jb-HXaGG2_-351" parent="n5DYP0KcQ7Jb-HXaGG2_-347" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;rotation=90;" value="" vertex="1">
           <mxGeometry height="11.68" width="11.68" x="25" y="-14" as="geometry" />
         </mxCell>
-        <mxCell id="n5DYP0KcQ7Jb-HXaGG2_-363" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Adversarial Learning&lt;/span&gt;" vertex="1">
-          <mxGeometry height="35" width="145" x="3823.17" y="1465" as="geometry" />
-        </mxCell>
         <mxCell id="n5DYP0KcQ7Jb-HXaGG2_-364" connectable="0" parent="1" style="group;rotation=0;" value="" vertex="1">
           <mxGeometry height="20" width="60" x="3819.5" y="1560" as="geometry" />
         </mxCell>
@@ -4196,6 +4193,9 @@
         </mxCell>
         <mxCell id="n5DYP0KcQ7Jb-HXaGG2_-374" parent="n5DYP0KcQ7Jb-HXaGG2_-370" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;rotation=0;" value="" vertex="1">
           <mxGeometry height="11.68" width="11.68" x="6" y="3" as="geometry" />
+        </mxCell>
+        <mxCell id="n5DYP0KcQ7Jb-HXaGG2_-376" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Adversarial&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;Imitation&lt;/span&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;&amp;nbsp;Learning&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="180" x="3840" y="1520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
