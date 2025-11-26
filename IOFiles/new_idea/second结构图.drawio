@@ -5540,6 +5540,15 @@
         <mxCell id="HULksxV-kaKcM_WsU03P-452" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GCN" vertex="1">
           <mxGeometry height="10.59" width="25.23" x="4270.85" y="411.25" as="geometry" />
         </mxCell>
+        <mxCell id="HULksxV-kaKcM_WsU03P-453" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="view" vertex="1">
+          <mxGeometry height="15.02" width="35" x="3792.5" y="304" as="geometry" />
+        </mxCell>
+        <mxCell id="HULksxV-kaKcM_WsU03P-454" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cart" vertex="1">
+          <mxGeometry height="15.02" width="35" x="3973.17" y="304" as="geometry" />
+        </mxCell>
+        <mxCell id="HULksxV-kaKcM_WsU03P-455" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="buy" vertex="1">
+          <mxGeometry height="15.02" width="35" x="4152.5" y="304" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
