@@ -4683,8 +4683,8 @@
         <mxCell id="HULksxV-kaKcM_WsU03P-446" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\mathtt{E}^{b}_{unpop}$$" vertex="1">
           <mxGeometry height="9" width="15" x="5347.05" y="308.05" as="geometry" />
         </mxCell>
-        <mxCell id="HULksxV-kaKcM_WsU03P-447" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GCN" vertex="1">
-          <mxGeometry height="10.59" width="25.23" x="4948" y="202.82000000000005" as="geometry" />
+        <mxCell id="HULksxV-kaKcM_WsU03P-447" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LightGCN" vertex="1">
+          <mxGeometry height="10.59" width="25.23" x="4962.16" y="204.92000000000004" as="geometry" />
         </mxCell>
         <mxCell id="HULksxV-kaKcM_WsU03P-448" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GCN" vertex="1">
           <mxGeometry height="10.59" width="25.23" x="4948" y="293.39" as="geometry" />
