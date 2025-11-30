@@ -5486,7 +5486,7 @@
         <mxCell id="Ua7k-qEHlYrvipPsU6Ow-410" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="fusion strategy" vertex="1">
           <mxGeometry height="30" width="60.5" x="4820.35" y="492.66999999999996" as="geometry" />
         </mxCell>
-        <mxCell id="Ua7k-qEHlYrvipPsU6Ow-174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\mathtt{E}^{v}_{debias}$$" vertex="1">
+        <mxCell id="Ua7k-qEHlYrvipPsU6Ow-174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\mathtt{E}^{[v:L]}_{debias}$$" vertex="1">
           <mxGeometry height="9" width="15" x="4908.35" y="517.2" as="geometry" />
         </mxCell>
         <mxCell id="Ua7k-qEHlYrvipPsU6Ow-175" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -5533,8 +5533,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ua7k-qEHlYrvipPsU6Ow-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\mathtt{E}^{v}_{bias}$$" vertex="1">
-          <mxGeometry height="9" width="15" x="4843.1" y="431.98999999999995" as="geometry" />
+        <mxCell id="Ua7k-qEHlYrvipPsU6Ow-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\mathtt{E}^{[v:L]}_{bias}$$" vertex="1">
+          <mxGeometry height="9" width="15" x="4842.610000000001" y="430.46999999999997" as="geometry" />
         </mxCell>
         <mxCell id="Ua7k-qEHlYrvipPsU6Ow-162" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="10" width="30" x="4865" y="431.91999999999996" as="geometry" />
