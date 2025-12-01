@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="第 1 页" id="a7vEhYP6rL8GsZ4J2X63">
-    <mxGraphModel dx="815" dy="444" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
+    <mxGraphModel dx="868" dy="474" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5623,10 +5623,10 @@
         <mxCell id="QSlEEvGBZyPitBIwF-1c-22" parent="QSlEEvGBZyPitBIwF-1c-30" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Total loss" vertex="1">
           <mxGeometry height="30" width="60" x="40" as="geometry" />
         </mxCell>
-        <mxCell id="QSlEEvGBZyPitBIwF-1c-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Stage1:&amp;nbsp;&lt;div&gt;Initialize Embeddings&lt;/div&gt;" vertex="1">
+        <mxCell id="QSlEEvGBZyPitBIwF-1c-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Stage1:&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Embedding&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Initialization&lt;/div&gt;" vertex="1">
           <mxGeometry height="28.75" width="89.77" x="4726.320000000001" y="242.71" as="geometry" />
         </mxCell>
-        <mxCell id="QSlEEvGBZyPitBIwF-1c-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Stage2:&amp;nbsp;&lt;div&gt;Adversarial Imitation Learning&lt;/div&gt;" vertex="1">
+        <mxCell id="QSlEEvGBZyPitBIwF-1c-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Stage2:&amp;nbsp;&lt;div&gt;Mutiple Adversarial Imitation Learning&lt;/div&gt;" vertex="1">
           <mxGeometry height="28.75" width="70" x="4736.2" y="380.62" as="geometry" />
         </mxCell>
         <mxCell id="QSlEEvGBZyPitBIwF-1c-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
@@ -5659,8 +5659,14 @@
         <mxCell id="QSlEEvGBZyPitBIwF-1c-41" parent="QSlEEvGBZyPitBIwF-1c-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="item" vertex="1">
           <mxGeometry height="19.16" width="25.59" x="44.409999999999854" y="2.9199999999999875" as="geometry" />
         </mxCell>
-        <mxCell id="QSlEEvGBZyPitBIwF-1c-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Stage3:&amp;nbsp;&lt;div&gt;Cascading Debias Fusion&lt;/div&gt;" vertex="1">
+        <mxCell id="QSlEEvGBZyPitBIwF-1c-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Stage3:&amp;nbsp;&lt;div&gt;Cascading Debias Learning&lt;/div&gt;" vertex="1">
           <mxGeometry height="28.75" width="75" x="4733.7" y="515.63" as="geometry" />
+        </mxCell>
+        <mxCell id="DKhub0DjXUOs7Fl4W_27-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="L" vertex="1">
+          <mxGeometry height="30" width="60" x="4944.77" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="DKhub0DjXUOs7Fl4W_27-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="L" vertex="1">
+          <mxGeometry height="60" width="710" x="4825" y="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
