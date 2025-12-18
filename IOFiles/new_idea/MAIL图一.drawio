@@ -214,7 +214,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fFV_vAThGalEWVrabmW1-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u3a61d7fc&quot; class=&quot;ne-p&quot; style=&quot;margin: 0; padding: 0; min-height: 24px&quot;&gt;&lt;span class=&quot;ne-text&quot; style=&quot;font-size: 19px&quot;&gt;1、在多行为推荐中，由于长尾项目在各个行为中的交互极其稀疏，导致跨行为表示学习过程被流行项目主导，使得模型学习到的行为迁移模式更多是流行项目驱动，而非用户真实的跨行为偏好迁移，从而使得随着行为层次的深入，数据的偏差越来越剧烈，最终导致这种流行偏差主导的跨行为建模使得长尾项目在行为中的表示难以得到有效学习。&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="740" x="170" y="1300" as="geometry" />
+          <mxGeometry height="140" width="740" x="190" y="1280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
