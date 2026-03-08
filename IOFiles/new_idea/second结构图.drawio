@@ -11845,7 +11845,7 @@
         <mxCell id="qBim1a54dL8QCRPcP4cQ-503" edge="1" parent="1" source="qBim1a54dL8QCRPcP4cQ-501" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qBim1a54dL8QCRPcP4cQ-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qBim1a54dL8QCRPcP4cQ-504" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="Step1" vertex="1">
+        <mxCell id="qBim1a54dL8QCRPcP4cQ-504" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="步骤一" vertex="1">
           <mxGeometry height="20.3" width="39.17" x="6010.83" y="1010.79" as="geometry" />
         </mxCell>
         <mxCell id="qBim1a54dL8QCRPcP4cQ-505" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$l_{sorted}^v$$" vertex="1">
@@ -11882,10 +11882,10 @@
         <mxCell id="qBim1a54dL8QCRPcP4cQ-512" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$\mathcal{V}^b$$" vertex="1">
           <mxGeometry height="20" width="24" x="6659.04" y="1032.18" as="geometry" />
         </mxCell>
-        <mxCell id="qBim1a54dL8QCRPcP4cQ-513" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="Step2" vertex="1">
+        <mxCell id="qBim1a54dL8QCRPcP4cQ-513" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="步骤二" vertex="1">
           <mxGeometry height="20.3" width="39.17" x="6010.83" y="1147.21" as="geometry" />
         </mxCell>
-        <mxCell id="qBim1a54dL8QCRPcP4cQ-514" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="Step3" vertex="1">
+        <mxCell id="qBim1a54dL8QCRPcP4cQ-514" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=3" value="步骤三" vertex="1">
           <mxGeometry height="20.3" width="39.17" x="6010.83" y="1279.6100000000001" as="geometry" />
         </mxCell>
         <mxCell id="qBim1a54dL8QCRPcP4cQ-515" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.996;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;dashPattern=1 2;strokeColor=#999999;" target="qBim1a54dL8QCRPcP4cQ-1" value="">
